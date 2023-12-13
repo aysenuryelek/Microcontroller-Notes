@@ -1,2 +1,2 @@
 # Microcontroller-Notes
-Here is for my notes about microcontroller lectures and studies.
+This is for my notes on the studies for my microcontroller course.
